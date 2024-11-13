@@ -11,6 +11,8 @@ if ( ! defined( 'WPORGPATH' ) ) {
 	define( 'WPORGPATH', get_theme_file_path( '/inc/' ) );
 }
 
+add_filter( 'should_load_separate_core_block_assets', '__return_false', 20 );
+
 add_action(
 	'enqueue_block_assets',
 	function () {
