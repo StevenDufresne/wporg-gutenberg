@@ -256,8 +256,8 @@ $content = '<!-- wp:group {"align":"full","layout":{"inherit":false,"contentSize
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"70%","className":"wporg-gutenberg-block-layout"} -->
 <div class="wp-block-column wporg-gutenberg-block-layout" style="flex-basis:70%"><!-- wp:wporg/wporg-gutenberg-button -->
-<div class="wp-block-wporg-wporg-gutenberg-button wp-block-buttons"><!-- wp:button {"width":100,"style":{"color":{"text":"#ffffff"}, "className":"is-style-fill"} -->
-<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link wp-element-button" href="' . esc_url( "https://{$localised_domain}/patterns/" ) . '" style="color:#ffffff" target="_blank">' . esc_html__( 'Block Pattern Directory', 'wporg' ) . '</a></div>
+<div class="wp-block-wporg-wporg-gutenberg-button wp-block-buttons"><!-- wp:button {"width":100, "className":"is-style-fill"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link wp-element-button" href="' . esc_url( "https://{$localised_domain}/patterns/" ) . '" target="_blank">' . esc_html__( 'Block Pattern Directory', 'wporg' ) . '</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:wporg/wporg-gutenberg-button -->
 
