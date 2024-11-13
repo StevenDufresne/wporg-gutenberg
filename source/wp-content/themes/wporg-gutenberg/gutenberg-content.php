@@ -46,7 +46,7 @@ $content = '<!-- wp:group {"align":"full","layout":{"inherit":false,"contentSize
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:cover {"url":"https://wordpress.org/gutenberg/files/2022/05/Gradient-Background.png","id":1194,"hasParallax":true,"dimRatio":10,"isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"120px","bottom":"120px"}}}} -->
+<!-- wp:cover {"url":"https://wordpress.org/gutenberg/files/2022/05/Gradient-Background.png","id":111079,"hasParallax":true,"dimRatio":10,"isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"120px","bottom":"120px"}}}} -->
 <div class="wp-block-cover alignfull is-light has-parallax" style="padding-top:120px;padding-bottom:120px;background-image:url(https://wordpress.org/gutenberg/files/2022/05/Gradient-Background.png)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"inherit":false,"wideSize":"1200px"}} -->
 <div class="wp-block-group"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"padding":{"top":"0px","left":"0px","bottom":"30px"}}}} -->
@@ -471,7 +471,7 @@ $content = '<!-- wp:group {"align":"full","layout":{"inherit":false,"contentSize
 <!-- /wp:group --></div></div>
 <!-- /wp:cover -->
 
-<!-- wp:cover {"url":"https://wordpress.org/gutenberg/files/2022/05/Gradient-Background-2-1.png","id":1202,"hasParallax":true,"dimRatio":10,"isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"120px","right":"0px","bottom":"120px","left":"0px"}}}} -->
+<!-- wp:cover {"url":"https://wordpress.org/gutenberg/files/2022/05/Gradient-Background-2-1.png","id":111078,"hasParallax":true,"dimRatio":10,"isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"120px","right":"0px","bottom":"120px","left":"0px"}}}} -->
 <div class="wp-block-cover alignfull is-light has-parallax" style="padding-top:120px;padding-right:0px;padding-bottom:120px;padding-left:0px;background-image:url(https://wordpress.org/gutenberg/files/2022/05/Gradient-Background-2-1.png)"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-10 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"contentSize":"1000px"}} -->
 <div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0px","bottom":"0px","left":"0px"}}}} -->
 <div class="wp-block-columns" style="padding-top:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"width":"100%","style":{"spacing":{"padding":{"right":"30px","left":"30px"}}}} -->
